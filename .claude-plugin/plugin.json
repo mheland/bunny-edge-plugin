@@ -1,0 +1,8 @@
+{
+  "name": "bunny-edge",
+  "description": "Scaffold, develop, and deploy Bunny CDN Edge Scripts with edge-replicated database, HTMLRewriter, middleware, and WebSockets",
+  "version": "1.0.0",
+  "author": {
+    "name": "mheland"
+  }
+}
