@@ -1,0 +1,21 @@
+{
+  "name": "mheland",
+  "owner": {
+    "name": "mheland"
+  },
+  "metadata": {
+    "description": "mheland's Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "bunny-edge",
+      "source": {
+        "source": "github",
+        "repo": "mheland/bunny-edge-plugin"
+      },
+      "description": "Scaffold, develop, and deploy Bunny CDN Edge Scripts with edge-replicated database, HTMLRewriter, middleware, and WebSockets",
+      "category": "deployment",
+      "keywords": ["bunny", "cdn", "edge", "scripting", "libsql"]
+    }
+  ]
+}
